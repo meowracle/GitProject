@@ -1,0 +1,1 @@
+vi khong biet tao file duoi .md nen em tao file nay coi nhu file READE.md ah
